@@ -1,2 +1,2 @@
 # madlibs
-fun madlibs
+These fun madlibs are very cool
